@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tomato
+Exec=tomato
+Icon=io.github.lorencinibrdev.Tomato
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

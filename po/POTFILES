@@ -1,0 +1,6 @@
+data/io.github.lorencinibrdev.Tomato.desktop.in
+data/io.github.lorencinibrdev.Tomato.appdata.xml.in
+data/io.github.lorencinibrdev.Tomato.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
